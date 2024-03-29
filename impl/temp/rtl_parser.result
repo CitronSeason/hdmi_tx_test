@@ -1,0 +1,18 @@
+[
+ {
+  "InstFile" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/src/gowin_rpll/gowin_rpll_371_25.v",
+  "InstLine" : 10,
+  "InstName" : "Gowin_rPLL_371_25",
+  "ModuleFile" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/src/gowin_rpll/gowin_rpll_371_25.v",
+  "ModuleLine" : 10,
+  "ModuleName" : "Gowin_rPLL_371_25"
+ },
+ {
+  "InstFile" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/src/gowin_rpll/gowin_rpll_74_25.v",
+  "InstLine" : 10,
+  "InstName" : "Gowin_rPLL_74_25",
+  "ModuleFile" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/src/gowin_rpll/gowin_rpll_74_25.v",
+  "ModuleLine" : 10,
+  "ModuleName" : "Gowin_rPLL_74_25"
+ }
+]

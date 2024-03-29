@@ -1,0 +1,29 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Path" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/src/top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/src/gowin_rpll/gowin_rpll_371_25.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/src/gowin_rpll/gowin_rpll_74_25.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/src/dvi_out.sv",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/Projects_D/0001_Gowin/hdmi_tx_test/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
